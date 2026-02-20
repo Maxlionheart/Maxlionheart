@@ -28,4 +28,4 @@ A structured showcase of my journey into AI and robotics engineering, developing
 
 | **Project** | **Demo** |
 |-------------|----------|
-| 👀 AI Vision System <br><br> Real-time object detection system built using Python and OpenCV. Designed as a foundational perception module for future autonomous robotics integration. <br><br>  | 🔗 [View Repository](https://github.com/Maxlionheart/laptop-object-detection) <br> 🔗 Demo: In Progress |
+| 👀 **AI Vision System** <br><br> Real-time object detection system developed using Python and OpenCV, forming the perception layer for future autonomous robotics integration. | 🔗 [View Repository](https://github.com/Maxlionheart/laptop-object-detection) <br><br> 🔗 Demo: In Progress |
