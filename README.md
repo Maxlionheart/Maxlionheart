@@ -26,6 +26,6 @@ A structured showcase of my journey into AI and robotics engineering — develop
 
 ---
 
-| 🧠 AI Vision System |  |
-|----------------------|--|
-| **Real-time object detection system** built using Python and OpenCV. Designed as a foundational perception module for future autonomous robotics integration. <br><br> 🔗 [View Repository](https://github.com/Maxlionheart/laptop-object-detection) <br> 🔗 Demo: In Progress | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE1aTA2ZGk0eXJiNzZraDF4b3lhZWs2bjJ1aHVxc2MyNHk1d2gwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABVK96HgZvWI9SBbXr/giphy.gif" width="420"/> |
+| **Project** | **Demo** |
+|-------------|----------|
+| ### 🧠 AI Vision System <br><br> Real-time object detection system built using Python and OpenCV. Designed as a foundational perception module for future autonomous robotics integration. <br><br> 🔗 [View Repository](https://github.com/Maxlionheart/laptop-object-detection) <br> 🔗 Demo: In Progress | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE1aTA2ZGk0eXJiNzZraDF4b3lhZWs2bjJ1aHVxc2MyNHk1d2gwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABVK96HgZvWI9SBbXr/giphy.gif" width="420"/> |
