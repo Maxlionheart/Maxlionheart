@@ -20,7 +20,7 @@ Engineering intelligence into machines.
 
 Designing applied AI and robotics systems that integrate machine learning, perception, and control.  
 Currently strengthening my engineering foundation through CS50AI and Modern Robotics while developing real-world intelligent system projects.
-
+---
 
 ⚙️ The Intelligent Systems Build Series
 
