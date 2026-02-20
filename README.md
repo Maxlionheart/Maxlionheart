@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Maxwell Ujunwa 🧠🤖</h1>
+<h1 >Hi 👋, I'm Maxwell Ujunwa 🧠🤖</h1>
 
-<p>
+<p align="center">
 Engineering intelligence into machines.
 </p>
 
