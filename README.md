@@ -13,7 +13,7 @@ Engineering intelligence into machines.
 </p>
 
 <p align="center">
-*AI & Robotics Engineer in Training building the foundation for intelligent and autonomous systems.*
+  <em>AI & Robotics Engineer in Training building the foundation for intelligent and autonomous systems.</em>
 </p>
 
 Designing applied AI and robotics systems that integrate machine learning, perception, and control.  
