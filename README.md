@@ -8,7 +8,7 @@ Engineering intelligence into machines.
   <img 
     src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE1aTA2ZGk0eXJiNzZraDF4b3lhZWs2bjJ1aHVxc2MyNHk1d2gwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABVK96HgZvWI9SBbXr/giphy.gif"
     alt="AI Animation"
-    width="500"
+    width="800"
   />
 </p>
 
