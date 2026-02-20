@@ -12,8 +12,9 @@ Engineering intelligence into machines.
   />
 </p>
 
-
+<p align="center">
 *AI & Robotics Engineer in Training building the foundation for intelligent and autonomous systems.*
+</p>
 
 Designing applied AI and robotics systems that integrate machine learning, perception, and control.  
 Currently strengthening my engineering foundation through CS50AI and Modern Robotics while developing real-world intelligent system projects.
