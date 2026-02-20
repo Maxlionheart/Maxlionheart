@@ -10,8 +10,6 @@ Engineering intelligence into machines.
     alt="AI Animation"
     width="500"
   />
-</p>th="420"
-  />
 </p>
 
 <p align="center">
