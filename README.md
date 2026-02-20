@@ -20,7 +20,7 @@ Designing applied AI and robotics systems that integrate machine learning, perce
 Currently strengthening my engineering foundation through CS50AI and Modern Robotics while developing real-world intelligent system projects.
 
 
-## 🧠 The Intelligent Systems Build Series
+## ⚙️ The Intelligent Systems Build Series
 
 A structured showcase of my journey into AI and robotics engineering — developing intelligent systems from foundational theory to real-world implementation.
 
@@ -28,4 +28,4 @@ A structured showcase of my journey into AI and robotics engineering — develop
 
 | **Project** | **Demo** |
 |-------------|----------|
-| 🧠 AI Vision System <br><br> Real-time object detection system built using Python and OpenCV. Designed as a foundational perception module for future autonomous robotics integration. <br><br> 🔗 [View Repository](https://github.com/Maxlionheart/laptop-object-detection) <br> 🔗 Demo: In Progress | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE1aTA2ZGk0eXJiNzZraDF4b3lhZWs2bjJ1aHVxc2MyNHk1d2gwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABVK96HgZvWI9SBbXr/giphy.gif" width="420"/> |
+| 👀 AI Vision System <br><br> Real-time object detection system built using Python and OpenCV. Designed as a foundational perception module for future autonomous robotics integration. <br><br> 🔗 [View Repository](https://github.com/Maxlionheart/laptop-object-detection) <br> 🔗 Demo: In Progress | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTE1aTA2ZGk0eXJiNzZraDF4b3lhZWs2bjJ1aHVxc2MyNHk1d2gwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ABVK96HgZvWI9SBbXr/giphy.gif" width="420"/> |
