@@ -13,17 +13,10 @@ Engineering intelligence into machines.
 </p>
 
 
-## 🧠 The Intelligent Systems Build Series
+*AI & Robotics Engineer in Training building the foundation for intelligent and autonomous systems.*
 
-A growing collection of applied AI and robotics projects documenting my progression toward autonomous systems engineering.
-
----
-
-## 🚀 Current Focus
-
-- Machine Learning Foundations (CS50AI)
-- Robotics & Control Systems (Modern Robotics)
-- Applied AI System Development
+Designing applied AI and robotics systems that integrate machine learning, perception, and control.  
+Currently strengthening my engineering foundation through CS50AI and Modern Robotics while developing real-world intelligent system projects.
 
 
 ## 🎯 AI Vision System (Laptop-Based)
