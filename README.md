@@ -27,5 +27,5 @@ A growing collection of applied AI and robotics projects documenting my progress
 Real-time object detection system built using Python and OpenCV.  
 Designed as a foundation for autonomous perception systems.
 
-🔗 [View Repository](#)
+🔗 [View Repository](https://github.com/Maxlionheart/laptop-object-detection)
 🔗 [Demo Video Coming Soon]
