@@ -27,4 +27,3 @@ Designed as a foundation for autonomous perception systems.
 
 🔗 [View Repository](https://github.com/Maxlionheart/laptop-object-detection)
 🔗 [Demo Video Coming Soon] 
-please replace the code 
