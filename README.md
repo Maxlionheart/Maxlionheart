@@ -12,14 +12,6 @@ Engineering intelligence into machines.
   />
 </p>
 
-<p align="center">
-  <sub>
-    Source:
-    <a href="https://animesher.com/orig/1/102/1029/10297/animesher.com_anime-boy-kekkai-sensen-zapp-renfro-1029715.gif">
-      animesher.com
-    </a>
-  </sub>
-</p>
 
 ## 🧠 The Intelligent Systems Build Series
 
