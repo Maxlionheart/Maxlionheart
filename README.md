@@ -35,7 +35,7 @@ A structured showcase of my journey into AI and robotics engineering, developing
 
 ---
 
-## 📊 Engineering Analytics
+📊 Engineering Analytics
 
 <table>
 <tr>
