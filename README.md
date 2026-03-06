@@ -23,7 +23,7 @@ Currently strengthening my engineering foundation through CS50AI and Modern Robo
 
 ---
 
-<h2 align="center">⚙️ The Intelligent Systems Build Series</h2>
+<h2>⚙️ The Intelligent Systems Build Series</h2>
 
 A structured showcase of my journey into AI and robotics engineering, developing intelligent systems from foundational theory to real-world implementation.
 
@@ -35,7 +35,7 @@ A structured showcase of my journey into AI and robotics engineering, developing
 
 ---
 
-<h2 align="center">📊 Engineering Analytics</h2>
+<h2>📊 Engineering Analytics</h2>
 
 <table>
 <tr>
