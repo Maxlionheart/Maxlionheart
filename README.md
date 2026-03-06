@@ -37,30 +37,24 @@ A structured showcase of my journey into AI and robotics engineering, developing
 
 ## 📊 Engineering Analytics
 
-<table align="center">
+<table>
 <tr>
-<td align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxlionheart&theme=tokyonight" />
-
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxlionheart&theme=tokyonight">
 </td>
-<td align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxlionheart&theme=tokyonight" />
-
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxlionheart&theme=tokyonight">
 </td>
 </tr>
 
 <tr>
-<td align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Maxlionheart&theme=tokyonight" />
-
+<td width="50%">
+<img src="https://streak-stats.demolab.com?user=Maxlionheart&theme=tokyonight">
 </td>
-<td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maxlionheart&show_icons=true&theme=tokyonight" />
-
+<td width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maxlionheart&theme=tokyonight&utcOffset=0">
 </td>
 </tr>
 </table>
