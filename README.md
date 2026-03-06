@@ -35,7 +35,6 @@ A structured showcase of my journey into AI and robotics engineering, developing
 
 ---
 
----
 
 ## 📊 Engineering Analytics
 
@@ -53,7 +52,7 @@ A structured showcase of my journey into AI and robotics engineering, developing
       <img src="https://streak-stats.demolab.com/?user=Maxlionheart&theme=tokyonight" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxlionheart&layout=compact&theme=tokyonight" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maxlionheart&theme=tokyonight" width="100%" />
     </td>
   </tr>
 </table>
