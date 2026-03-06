@@ -35,26 +35,25 @@ A structured showcase of my journey into AI and robotics engineering, developing
 
 ---
 
+---
+
 ## 📊 Engineering Analytics
 
 <table>
-<tr>
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxlionheart&theme=tokyonight">
-</td>
-
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxlionheart&theme=tokyonight">
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<img src="https://streak-stats.demolab.com?user=Maxlionheart&theme=tokyonight">
-</td>
-
-<td width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Maxlionheart&theme=tokyonight&utcOffset=0">
-</td>
-</tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxlionheart&theme=tokyonight" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxlionheart&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=Maxlionheart&theme=tokyonight" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxlionheart&layout=compact&theme=tokyonight" width="100%" />
+    </td>
+  </tr>
 </table>
