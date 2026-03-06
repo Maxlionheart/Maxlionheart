@@ -35,81 +35,32 @@ A structured showcase of my journey into AI and robotics engineering, developing
 
 ---
 
-## 📊 GHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxlionheart&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maxlionheart&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Maxlionheart&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Maxlionheart&show_icons=true&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxlionheart&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxlionheart&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://streak-stats.demolab.com/?user=Maxlionheart&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maxlionheart&layout=compact&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxlionheart&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maxlionheart&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
-
-
----
-
 ## 📊 Engineering Analytics
 
-<table>
-  <tr>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxlionheart&theme=tokyonight" />
-    </td>
-    <td width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxlionheart&theme=tokyonight" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com/?user=Maxlionheart&theme=tokyonight" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Maxlionheart&show_icons=true&theme=tokyonight" />
-    </td>
-  </tr>
+<table align="center">
+<tr>
+<td align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxlionheart&theme=tokyonight" />
+
+</td>
+<td align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxlionheart&theme=tokyonight" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Maxlionheart&theme=tokyonight" />
+
+</td>
+<td align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Maxlionheart&show_icons=true&theme=tokyonight" />
+
+</td>
+</tr>
 </table>
