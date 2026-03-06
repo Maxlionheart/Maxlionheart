@@ -38,17 +38,13 @@ A structured showcase of my journey into AI and robotics engineering, developing
 
 ## 📊 Engineering Analytics
 
----
-
-## 📊 Engineering Analytics
-
 <table>
   <tr>
     <td align="center" width="50%">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Maxlionheart&theme=tokyonight" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://media.tenor.com/ABVK96HgZvWI9SBbXr/giphy.gif" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxlionheart&theme=tokyonight" width="100%" />
     </td>
   </tr>
   <tr>
@@ -56,7 +52,7 @@ A structured showcase of my journey into AI and robotics engineering, developing
       <img src="https://streak-stats.demolab.com/?user=Maxlionheart&theme=tokyonight" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Maxlionheart&theme=tokyonight" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Maxlionheart&theme=tokyonight" width="100%" />
     </td>
   </tr>
 </table>
