@@ -67,6 +67,6 @@ Random stuff that can assist me in my day-to-day
 
 | **Project** | **Demo** |
 |-------------|----------|
-| 🛒 **A simple tool that helps you find and apply discount codes instantly, making online shopping cheaper and saving you money over time, potentially up to £1,000 with consistent use. | 🔗 [View Repository](https://github.com/Maxlionheart/Coupon-Finder) <br><br> 🔗 Demo: [Try the live demo] (https://In progress) |
+| 🛒 **Coupon Finder** <br><br> A simple tool that helps you find and apply discount codes instantly, making online shopping cheaper and saving you money over time, potentially up to £1,000 with consistent use. | 🔗 [View Repository](https://github.com/Maxlionheart/Coupon-Finder) <br><br> 🔗 Demo: [Try the live demo] (https://In progress) |
 
 ---
